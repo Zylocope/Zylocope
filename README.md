@@ -1,5 +1,4 @@
 # Hi, I am La Min Oo (Foster Zyne) 👋
-# Hi, I am La Min Oo 👋
 
 Computer Science student at Assumption University of Thailand
 Currently building **Nexus Sight** (Esports Draft Engine) & **Dungeon Soul** (Unity 3D Action Game)
