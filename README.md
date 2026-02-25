@@ -1,11 +1,29 @@
 # La Min Oo (Foster Zyne)
 
-Computer Science student at Assumption University of Thailand specializing in Data Science, Machine Learning, and Natural Language Processing. Experienced in translating complex datasets into actionable insights, interactive tools, and predictive models for gaming and real-world applications.
+Computer Science student at Assumption University of Thailand, focusing on Data Science, Machine Learning, and NLP, and applying them to games and web applications. Experienced in turning raw data into interactive tools and predictive models.
 
 ### Current Focus
-* **Development:** Building predictive models for esports and modernizing classic ML pipelines.
-* **Research:** Advancing capabilities in research-level ML/NLP and software engineering.
-* **Languages:** Currently learning German (Deutsch).
+* Learning advanced ML/NLP (feature engineering, model tuning, text pipelines).
+* Exploring Machine Learning applications for games (match prediction, recommendation systems).
+* Improving software engineering fundamentals: project structure, testing, and documentation.
+
+### About Me
+* Open to collaborating on Data/ML projects, particularly within the gaming sector.
+* Based in Bangkok, Thailand.
+* **Contact:** Reach out via GitHub Issues or Facebook (FosterZyne).
+
+---
+
+### Selected Projects
+
+**Game & Interactive Development**
+* **Dungeon Soul:** Unity 3D action game focusing on combat and level design (C#).
+* **Nexus Sight:** Esports draft engine concept designed for advanced draft analysis and match insights.
+* **LOL-Game-Analyzer:** League of Legends match outcome prediction using ML models, integrated with a web UI.
+
+**Data Science, ML & NLP**
+* **Data_Mining_Titanic:** Survival prediction pipeline featuring extensive feature engineering and scikit-learn evaluation.
+* **AI-Concept-CSX4201:** Comprehensive Jupyter notebooks covering ML algorithms, applied AI concepts, and foundational NLP.
 
 ---
 
@@ -25,13 +43,24 @@ Computer Science student at Assumption University of Thailand specializing in Da
 
 **Game Development & Version Control**
 <br>
-<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 ---
 
-### Selected Projects
+### GitHub Activity
 
-* **LOL-Game-Analyzer:** A machine learning pipeline utilizing in-game statistics to predict League of Legends match outcomes, featuring a custom web interface for data input and analysis.
-* **Data_Mining_Titanic:** A binary classification model predicting survival rates. Emphasizes modern feature engineering and evaluation pipelines using Pandas and scikit-learn.
-* **EazyMoveApp:** A delivery application built with a focus on robust, scalable database architecture.
-* **AI-Concept-CSX4201:** A comprehensive repository of Jupyter notebooks demonstrating core Machine Learning algorithms, foundational NLP techniques, and applied AI concepts.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zylocope&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zylocope&theme=tokyonight" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zylocope&theme=tokyonight" alt="Activity Graph" />
+</div>
+
+#### Contribution Graph
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zylocope/zylocope/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zylocope/zylocope/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zylocope/zylocope/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
