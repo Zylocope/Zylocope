@@ -1,6 +1,6 @@
 # La Min Oo (Foster Zyne)
 
-Computer Science student at Assumption University of Thailand, focusing on Data Science, Machine Learning, and NLP, and applying them to games and web applications. Experienced in turning raw data into interactive tools and predictive models.
+Computer Science student at Assumption University of Thailand, focusing on Data Science, Machine Learning, and NLP.
 
 ### Current Focus
 * Learning advanced ML/NLP (feature engineering, model tuning, text pipelines).
@@ -8,23 +8,22 @@ Computer Science student at Assumption University of Thailand, focusing on Data 
 * Improving software engineering fundamentals: project structure, testing, and documentation.
 
 ### About Me
-* Open to collaborating on Data/ML projects, particularly within the gaming sector.
+* Open to collaborating on Data/ML projects.
 * Based in Bangkok, Thailand.
 * **Contact:** Reach out via GitHub Issues or Facebook (FosterZyne).
 
 ---
 
-### Selected Projects
+### Highlight Projects
 
-* [cite_start]**Nexus Sight (ML Predictive Analytics Engine):** Trained an XGBoost classification model on 24,000+ professional matches to predict draft win probability, achieving 70.8% accuracy on held-out test data. [cite: 29] [cite_start]Built a custom Global Elo ranking system to quantify team strength across 8 years of match history, with adjustments for regional performance differences. [cite: 30]
-* [cite_start]**SEEIT-CV (AI Engineered Computer Vision System):** Built a real-time object detection app for visually impaired users using TensorFlow Lite and ML Kit, deployed on Android via React Native. [cite: 23] [cite_start]Eliminate cloud dependency and ensuring audio feedback even without internet access. [cite: 24] [cite_start]Tuned the detection model on custom datasets to improve accuracy in low-light conditions, addressing a key limitation of off-the-shelf models. [cite: 25]
-* [cite_start]**EazyMove (Logistics & Database Architecture):** Designed a relational database schema to track delivery vehicles, routes, and shipping cost factors. [cite: 18] [cite_start]Built a real-time dashboard to display delivery route progress and status updates, improving visibility for operations teams. [cite: 19]
+* **Nexus Sight (ML Predictive Analytics):** Esports analytics engine predicting draft win probabilities (70.8% accuracy) using an XGBoost model trained on 24,000+ matches. Features a custom Global Elo ranking system spanning 8 years of historical data.
+* **SEEIT-CV (AI Computer Vision):** Real-time, offline-capable object detection app for visually impaired users. Built with React Native, ML Kit, and TensorFlow Lite, incorporating models custom-tuned for low-light accuracy.
+* **EazyMove (Logistics Architecture):** Delivery management system utilizing a custom relational database schema and a real-time tracking dashboard to optimize vehicle routing and monitor shipping costs.
 
 #### Other Notable Work
-* **NLP Contribution Analyst:** A Streamlit application designed to quantify student participation from meeting transcripts using Sentence-BERT and zero-shot classification.
-* **Data_Mining_Titanic:** End-to-end survival prediction notebook focusing on EDA, feature engineering, and tree-based classification pipelines.
-* **SpaceWar (Contributor):** Custom 2D arcade space shooter developed in Java/Swing, utilizing custom game logic and sprite-based animations.
-
+* **NLP Contribution Analyst:** Streamlit application quantifying student participation from meeting transcripts using Sentence-BERT and zero-shot text classification.
+* **Data_Mining_Titanic:** End-to-end survival prediction notebook emphasizing exploratory data analysis, feature engineering, and tree-based classification pipelines.
+* **SpaceWar (Contributor):** Custom 2D arcade space shooter developed in Java/Swing, featuring custom game logic and sprite animations.
 ---
 
 ### Technical Stack
