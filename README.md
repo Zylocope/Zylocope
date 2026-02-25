@@ -28,6 +28,10 @@ Computer Science student at Assumption University of Thailand, focusing on Data 
 
 ### Technical Stack
 
+<a href="#">
+  <img align="right" width="250" src="![Image](https://github.com/user-attachments/assets/4c702f36-38ac-4808-b60b-d15bd2f6b5dc)" alt="Tech Stack Animation" />
+</a>
+
 **Data Science & Machine Learning**
 <br>
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
