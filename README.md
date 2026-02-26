@@ -10,7 +10,7 @@ I’m a CS student in Thailand building **Data/ML systems** + **game analytics**
 
 ---
 
-## 🧭 Current Quest
+## Current Quest
 - Training deeper ML/NLP skills (feature engineering, tuning, text pipelines)
 - Exploring ML for games (match prediction, draft analysis, recommender ideas)
 - Leveling up engineering fundamentals (structure, testing, docs)
@@ -63,6 +63,14 @@ A React Native app using computer vision + audio feedback to help visually impai
 **Game Development & Version Control**  
 <br>
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+---
+
+## Side Quests (Other Notable Work)
+Short missions I’ve completed along the way:
+
+-  **NLP Contribution Analyst** — Streamlit app that scores meeting participation from transcripts using Sentence‑BERT + zero‑shot classification.
+-  **Titanic Survival Pipeline** — EDA → feature engineering → tree-based models (end‑to‑end notebook).
+-  **SpaceWar (Contributor)** — Java/Swing 2D arcade shooter with custom game logic + sprite animations.
 
 ---
 
